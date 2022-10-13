@@ -7,7 +7,7 @@
         <description>Default access control on x_58872_needit_needit</description>
         <name>x_58872_needit_needit</name>
         <operation display_value="create">create</operation>
-        <script><![CDATA[current.isNewRecord();]]></script>
+        <script/>
         <sys_class_name>sys_security_acl</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-10-07 03:46:01</sys_created_on>
