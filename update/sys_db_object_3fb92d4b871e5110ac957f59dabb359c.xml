@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object">
     <sys_db_object action="INSERT_OR_UPDATE">
         <access>public</access>
-        <actions_access>true</actions_access>
-        <alter_access>true</alter_access>
+        <actions_access>false</actions_access>
+        <alter_access>false</alter_access>
         <caller_access/>
-        <client_scripts_access>true</client_scripts_access>
-        <configuration_access>true</configuration_access>
+        <client_scripts_access>false</client_scripts_access>
+        <configuration_access>false</configuration_access>
         <create_access>false</create_access>
         <create_access_controls>true</create_access_controls>
         <delete_access>false</delete_access>
@@ -29,6 +29,6 @@
         <sys_update_name>sys_db_object_3fb92d4b871e5110ac957f59dabb359c</sys_update_name>
         <update_access>true</update_access>
         <user_role display_value="x_58872_needit.needit_user" name="x_58872_needit.needit_user">4e42fb8d0fa83200cd674f8ce1050e72</user_role>
-        <ws_access>false</ws_access>
+        <ws_access>true</ws_access>
     </sys_db_object>
 </record_update>
